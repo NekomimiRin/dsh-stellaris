@@ -11,6 +11,18 @@ and a C++ DLL that executes them inside the game process through the engine's ow
 | `stellaris-bridge-patch/` | The bridge: a C++ DLL injected into the game, **299 IPC methods** (direct memory reads + the engine's own command producers), plus the full reverse-engineering notes |
 | `stellaris-save/` | Small Python tools that read save files (cross-checks, injection, reports) |
 
+## Downloads (if you do not want to build)
+
+The [Releases](https://github.com/NekomimiRin/dsh-stellaris/releases) page carries three archives:
+
+| Archive | What it is for |
+|---|---|
+| `stellaris-bridge-4.5.4-win64.zip` | **4.5.4 only**: a prebuilt `stellaris_bridge.dll` + the injector scripts + install notes |
+| `dsh-stellaris-plugin-0.1.0.zip` | the plugin itself — drop it into the DSH plugins directory |
+| `dsh-stellaris-0.1.0.zip` | a snapshot of the whole repository (bridge source and docs included), for machines without git |
+
+On any other game version do not use the prebuilt DLL — offsets change; build it yourself as described in `docs/build.md`.
+
 ## Read this first
 
 - **[dsh-stellaris/docs/tools.md](dsh-stellaris/docs/tools.md)** — what every tool does, its parameters and status

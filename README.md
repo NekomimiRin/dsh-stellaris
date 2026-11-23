@@ -10,6 +10,18 @@
 | `stellaris-bridge-patch/` | 桥：C++ DLL，挂在游戏进程里，**299 个 IPC 方法**（内存直读 + 调引擎自己的命令），附逆向笔记 |
 | `stellaris-save/` | 存档侧的 Python 小工具（对账、注入、各类报告） |
 
+## 下载（不想自己编译的话）
+
+[Releases](https://github.com/NekomimiRin/dsh-stellaris/releases) 里有三个包：
+
+| 包 | 用在哪儿 |
+|---|---|
+| `stellaris-bridge-4.5.4-win64.zip` | **只适用 4.5.4**：预编译的 `stellaris_bridge.dll` + 三个注入脚本 + 安装说明 |
+| `dsh-stellaris-plugin-0.1.0.zip` | 插件本体：放进 DSH 的 plugins 目录 |
+| `dsh-stellaris-0.1.0.zip` | 整个仓库快照（含桥源码与文档），没装 git 时用 |
+
+游戏不是 4.5.4 就别用预编译的 DLL——偏移会变，按 `docs/build.md` 自己编。
+
 ## 先读哪份
 
 - **[dsh-stellaris/docs/tools.md](dsh-stellaris/docs/tools.md)** — 187 个工具做什么、参数、状态（最常翻）
