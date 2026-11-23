@@ -1,0 +1,21 @@
+	553652834=
+	{
+		name=
+		{
+			key="MOL4_SHIP_Wavehunter"
+		}
+		role="screen"
+		graphical_culture="psionic_01"
+		growth_stages=
+		{
+			
+			{
+				ship_size="corvette"
+				section=
+				{
+					template="CORVETTE_MID_S2PD1"
+					slot="mid"
+				}
+			}
+		}
+	}

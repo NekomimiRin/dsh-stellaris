@@ -1,0 +1,23 @@
+# 来源与第三方许可
+
+## 上游
+
+**stellaris-mcp** — https://github.com/Yidhar/stellaris-mcp （MIT）
+`stellaris-bridge-patch/` 是它的修改版：保留原有 IPC 框架、命令构造与主线程队列，
+另有本项目自己增加的方法。上游的版权声明与许可适用于本项目继承的部分。
+
+**stellaris-Launcher** — https://github.com/Yidhar/stellaris-Launcher
+插件加载器 `stl` 的来源；本仓库不含它。
+
+## 参考过思路、但未包含代码
+
+**OGAS** — https://github.com/V2t-Nostalgia/OGAS （原 Imperial Auto Governor，GPL-3.0）
+本项目「调用游戏自己的生产者函数 / 命令构造器，而不是手工拼内存」这一**思路**来自它：
+只参考其公开文档与逆向记录，**未复制任何代码**（实现语言与架构都不同——这里是 C++ DLL + 本地 IPC）。
+
+**minhook** — https://github.com/TsudaKageyu/minhook （MIT）
+上游用它做 hook；构建时由上游拉取，本仓库不含源码。
+
+## 游戏
+
+Stellaris © Paradox Interactive。本仓库不含游戏本体、资源、本地化文件或存档。

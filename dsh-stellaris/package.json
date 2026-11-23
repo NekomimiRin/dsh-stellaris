@@ -1,0 +1,33 @@
+{
+  "name": "dsh-stellaris",
+  "version": "0.1.0",
+  "private": true,
+  "description": "把《群星》接进 DSH：启动器状态、面板信件与回信、局内状态（stellaris-mcp 命名管道）、科学船的派船/勘察/取消/姿态与带回避的探索队列、殖民地建造与开发（可建建筑/区划/区划特化、下单、升级、撤队列）、事件去重、随游戏心跳开合的自动检查。",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "index.js",
+    "cordis.patch.yml",
+    "scripts",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "cordis",
+    "stellaris"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}
+

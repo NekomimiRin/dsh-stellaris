@@ -1,0 +1,41 @@
+[
+  {
+    "file": "fa-crystal-blue.txt",
+    "design_id": 5062,
+    "name": "CRYSTALLINE_ENTITY_DESIGN_12",
+    "ship_size": "crystal_ship_small_blue",
+    "alias": "fa-crystal-blue",
+    "note": "太空生物 · 蓝色水晶实体（破浪者那 60 艘就是这个）· 4×聚焦闪电发射器 + 3×小型水晶闪电 + 2×小型水晶甲 + 生物自愈 + 守护者唾沫炮 + 超鞭毛",
+    "shell": true,
+    "keep_cores": true,
+    "fauna": true,
+    "bytes_before": 1806,
+    "bytes_after": 1234
+  },
+  {
+    "file": "fa-tiyanki.txt",
+    "design_id": 520097651,
+    "name": "TIYANKI_DESIGN_8",
+    "ship_size": "space_whale_5",
+    "alias": "fa-tiyanki",
+    "note": "太空生物 · 缇扬奇（巨鲸级）· 6×鲸类武器 IV + 2×快子光束 + 2×吉加炮 + 守护者唾沫炮 + 超鞭毛 + 生物自愈；核心 异次元内耳 / 脉冲生物推进器 / 光子接收感知器官 / 自律神经芯片（炮击）",
+    "shell": true,
+    "keep_cores": true,
+    "fauna": true,
+    "bytes_before": 1769,
+    "bytes_after": 1213
+  },
+  {
+    "file": "fa-cutholoid.txt",
+    "design_id": 520098375,
+    "name": "CUTHOLOID_DESIGN_12",
+    "ship_size": "cutholoids_hatchling",
+    "alias": "fa-cutholoid",
+    "note": "太空生物 · 触手兽幼体（破浪者旁边那 12 艘）· 2×流星投石索 + 1×中型掠食巨口 + 4×中型超鞭毛 + 守护者唾沫炮 + 生物自愈",
+    "shell": true,
+    "keep_cores": true,
+    "fauna": true,
+    "bytes_before": 1382,
+    "bytes_after": 936
+  }
+]

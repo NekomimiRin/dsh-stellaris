@@ -1,0 +1,26 @@
+	520098490=
+	{
+		name=
+		{
+			key="MOL4_SHIP_BarbedRay"
+		}
+		role="explosive"
+		graphical_culture="psionic_01"
+		growth_stages=
+		{
+			
+			{
+				ship_size="frigate"
+				section=
+				{
+					template="CORVETTE_MID_M1S1"
+					slot="mid"
+				}
+				required_component="DESTROYER_ZERO_POINT_REACTOR"
+				required_component="JUMP_DRIVE_1"
+				required_component="SHIP_THRUSTER_4"
+				required_component="SENSOR_4"
+				required_component="COMBAT_COMPUTER_TORPEDO_AUTONOMOUS"
+			}
+		}
+	}

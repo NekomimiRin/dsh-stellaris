@@ -1,0 +1,26 @@
+	520097651=
+	{
+		name=
+		{
+			key="TIYANKI_DESIGN_8"
+		}
+		upgrade_ship_components=yes
+		newborn_ship_design="NAME_Tiyanki_Hatchling"
+		growth_stages=
+		{
+			
+			{
+				ship_size="space_whale_5"
+				section=
+				{
+					template="space_whale_5_section_clonable"
+					slot="mid"
+				}
+				section=
+				{
+					template="mutation_section"
+					slot="mutations"
+				}
+			}
+		}
+	}

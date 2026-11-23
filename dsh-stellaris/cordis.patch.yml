@@ -1,0 +1,8 @@
+# dsh-stellaris 的 bundle patch 层。
+#
+# 与 dsh-dialog-alpha 的做法一致：这一层把自己插进 loader 的组合树。
+# `name` 必须与安装后的包名一致，否则 loader 只 warn 然后跳过这一行
+# （表现是「插件没生效但不报错」）。
+- insert:
+    - id: stellaris-tools
+      name: dsh-stellaris

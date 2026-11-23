@@ -1,0 +1,26 @@
+	251661926=
+	{
+		name=
+		{
+			key="MOL4_SHIP_AbyssalReef"
+		}
+		graphical_culture="psionic_01"
+		growth_stages=
+		{
+			
+			{
+				ship_size="juggernaut"
+				section=
+				{
+					template="CORE_JUGGERNAUT_SECTION"
+					slot="core"
+				}
+				required_component="JUGGERNAUT_ZERO_POINT_REACTOR"
+				required_component="SENSOR_4"
+				required_component="COMBAT_COMPUTER_CARRIER_AUTONOMOUS"
+				required_component="JUMP_DRIVE_1"
+				required_component="COLOSSUS_SHIP_THRUSTER_4"
+				required_component="SHIP_AURA_RANGE"
+			}
+		}
+	}

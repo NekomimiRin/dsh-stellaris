@@ -1,0 +1,62 @@
+[
+  {
+    "file": "352326399_空匣护卫.txt",
+    "design_id": 352326399,
+    "name": "空匣护卫",
+    "ship_size": "corvette"
+  },
+  {
+    "file": "251663105_空匣雷击.txt",
+    "design_id": 251663105,
+    "name": "空匣雷击",
+    "ship_size": "frigate"
+  },
+  {
+    "file": "318771971_空匣驱逐.txt",
+    "design_id": 318771971,
+    "name": "空匣驱逐",
+    "ship_size": "destroyer"
+  },
+  {
+    "file": "385880836_空匣战列.txt",
+    "design_id": 385880836,
+    "name": "空匣战列",
+    "ship_size": "battleship"
+  },
+  {
+    "file": "301994763_空匣泰坦.txt",
+    "design_id": 301994763,
+    "name": "空匣泰坦",
+    "ship_size": "titan"
+  },
+  {
+    "file": "117445388_空匣主宰.txt",
+    "design_id": 117445388,
+    "name": "空匣主宰",
+    "ship_size": "juggernaut"
+  },
+  {
+    "file": "402658063_空匣巡洋.txt",
+    "design_id": 402658063,
+    "name": "空匣巡洋",
+    "ship_size": "cruiser"
+  },
+  {
+    "file": "402658064_空匣缇扬奇.txt",
+    "design_id": 402658064,
+    "name": "空匣缇扬奇",
+    "ship_size": "space_whale_5"
+  },
+  {
+    "file": "301994770_空匣岩居兽.txt",
+    "design_id": 301994770,
+    "name": "空匣岩居兽",
+    "ship_size": "cutholoids_hatchling"
+  },
+  {
+    "file": "369103636_空匣晶态实体.txt",
+    "design_id": 369103636,
+    "name": "空匣晶态实体",
+    "ship_size": "crystal_ship_small_blue"
+  }
+]

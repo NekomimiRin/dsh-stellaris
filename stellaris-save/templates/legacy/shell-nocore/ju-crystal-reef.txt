@@ -1,0 +1,20 @@
+	251661926=
+	{
+		name=
+		{
+			key="MOL4_SHIP_AbyssalReef"
+		}
+		graphical_culture="psionic_01"
+		growth_stages=
+		{
+			
+			{
+				ship_size="juggernaut"
+				section=
+				{
+					template="CORE_JUGGERNAUT_SECTION"
+					slot="core"
+				}
+			}
+		}
+	}
