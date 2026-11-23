@@ -1,7 +1,4 @@
-2026-11-23T04:33:52.694Z enter (tools=object)
-2026-11-23T04:33:52.722Z another DSH process holds dsh-stellaris-auto.lock; not starting a watcher
-2026-11-23T04:33:52.725Z apply ok: 187 tools, stl=C:\Users\HUAWEI\AppData\Local\Programs\Stellaris Launcher\stl.exe
-2026-11-23T04:33:52.741Z disposed 187
-2026-11-23T04:33:55.037Z enter (tools=object)
-2026-11-23T04:33:55.056Z another DSH process holds dsh-stellaris-auto.lock; not starting a watcher
-2026-11-23T04:33:55.057Z apply ok: 187 tools, stl=C:\Users\HUAWEI\AppData\Local\Programs\Stellaris Launcher\stl.exe
+2026-11-23T05:19:29.351Z enter (tools=object)
+2026-11-23T05:19:29.380Z another DSH process holds dsh-stellaris-auto.lock; not starting a watcher
+2026-11-23T05:19:29.382Z apply ok: 187 tools, stl=C:\Users\HUAWEI\AppData\Local\Programs\Stellaris Launcher\stl.exe
+2026-11-23T05:19:29.407Z disposed 187

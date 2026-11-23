@@ -1,5 +1,7 @@
 # dsh-stellaris — 《群星》的 DSH 插件 + 本地桥
 
+[English](README.en.md) · 中文
+
 把《群星》（Stellaris 4.5.x）接进 DSH（DeepSeek Harness）的三块内容：
 
 | 目录 | 是什么 |
